@@ -1,0 +1,150 @@
+body {
+  font-family: 'Balsamiq Sans', cursive;
+  text-align: center;
+  margin: 0px;
+}
+
+h1 {
+  display: block;
+  font-family: 'Dancing Script', cursive;
+  margin-top: 0px;
+}
+
+hr {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-color: grey;
+  border-style: dotted none none;
+  width: 5%;
+  border-top-width: 5px;
+}
+
+h4 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+header {
+  margin-top: 0;
+  background-color: white;
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+
+footer {
+  background-color: #d4f3ef;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.initial {
+  position: absolute;
+  left: 200px;
+}
+
+.link-1 {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.link-2 {
+  position: absolute;
+  top: 50px;
+  right: 200px;
+}
+
+.para-12 {
+  text-align: left;
+  margin: 80px auto 80px auto;
+  width: 40%;
+}
+
+.gif-1 {
+  float: right;
+  width: 25%;
+}
+
+.gif-2 {
+  padding-right: 230px;
+  float: left;
+  width :25%;
+}
+
+.para-345{
+  text-align: left;
+  margin :80px auto 80px auto;
+  width:60%;
+}
+
+.ML-image {
+  float: right;
+  width: 20%;
+}
+
+.cloud-computing-image {
+    float: right;
+    width: 20%;
+}
+
+.python-image {
+  padding-right: 250px;
+  float: left;
+  width: 17%;
+}
+
+.my-photo {
+  display: block;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+
+.top-container{
+  background-color: #d4f3ef;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 35px;
+}
+
+.bottom-container{
+  background-color :#f1ebbb;
+}
+
+.mountain {
+  height: 50%;
+  width: 50%;
+}
+
+.first-cloud {
+  position: absolute;
+  right: 340px;
+  top:30px;
+  height: 200px;
+  width: 300px;
+}
+
+.second-cloud {
+  position: absolute;
+  left: 350px;
+  top: 130px;
+  height: 200px;
+  width: 300px;
+}
+
+.message {
+  margin-bottom: 5px;
+  border-color: #d4f3ef;
+  background-color: white;
+  display: inline-block;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 8px;
+}
+
+.mail {
+  font-size: 30px;
+  color: black;
+  font-family: 'Times New Roman', cursive;
+}
